@@ -32,8 +32,6 @@ public class newFunction
                 {
                     count++;
                     index= i;
-                    if(count == 3)
-                        break;
                     break;
                 }
             }
